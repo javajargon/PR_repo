@@ -23,4 +23,3 @@ class Calc
   puts "Mul result: " + calc.mul(5, 2).to_s
   puts "Div result: " + calc.div(5, 0).to_s  # Will throw an error for division by zero
   puts "hello"
-puts "Dharaneesh"

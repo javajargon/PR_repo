@@ -24,4 +24,4 @@ class Calc
   puts "Div result: " + calc.div(5, 0).to_s  # Will throw an error for division by zero
   puts "hello test line"
   puts "raju demo"
-  puts "creating a draft pull requestss"
+  puts "creating a draft pull requestsss"

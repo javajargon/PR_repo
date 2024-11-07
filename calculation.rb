@@ -25,3 +25,4 @@ class Calc
   puts "hello test line"
   puts "raju demo"
   puts "creating a draft pull requests"
+  puts "tired of pull requests"

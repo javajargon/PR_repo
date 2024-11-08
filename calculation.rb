@@ -26,3 +26,6 @@ class Calc
   puts "raju demo"
   puts "creating a draft pull requests"
   puts "tired of pull requests"
+
+ 
+  

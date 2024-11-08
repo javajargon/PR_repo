@@ -1,5 +1,5 @@
 puts "subtracion method"
 def sub(a,b)
-  a-b
+  (a-b).abs
 end
-sub(5,7)
+puts sub(5,7)

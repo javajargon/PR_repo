@@ -1,6 +1,6 @@
 class Calc
     def add(a, b)
-      return a + b
+      return a + buyv
     end
   
     def sub(a, b)
